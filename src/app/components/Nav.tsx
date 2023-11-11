@@ -23,7 +23,7 @@ export default function Nav() {
               rizzabh
             </a>
           </span>{" "}
-          with love ❤️
+          with love ❤️ will be adding new objects whenever I get time.
         </p>
         <h1 className="z-10 text-center lg:text-6xl md:text-5xl text-4xl font-extrabold lg:w-[56rem] md:w-[40rem] w-[22rem] md:leading-normal leading-tight">
           Wanna Play with some <br />
