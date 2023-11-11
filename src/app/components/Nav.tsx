@@ -14,6 +14,11 @@ export default function Nav() {
       </div>
 
       <div className="md:mt-24 mt-14 flex flex-col items-center gap-4 mb-4">
+        
+        <h1 className="z-10 text-center lg:text-6xl md:text-5xl text-4xl font-extrabold lg:w-[56rem] md:w-[40rem] w-[22rem] md:leading-normal leading-tight">
+          Wanna Play with some <br />
+          <span className="dtext leading-normal">3d Objects?</span>
+        </h1>
         <p className="love text-center md:text-sm text-base font-medium text-[#666666] lg:w-[46rem] md:w-[35rem] w-[15rem]">
           Made by{" "}
           <span className="underline cursor-pointer">
@@ -25,10 +30,6 @@ export default function Nav() {
           </span>{" "}
           with love ❤️ will be adding new objects whenever I get time.
         </p>
-        <h1 className="z-10 text-center lg:text-6xl md:text-5xl text-4xl font-extrabold lg:w-[56rem] md:w-[40rem] w-[22rem] md:leading-normal leading-tight">
-          Wanna Play with some <br />
-          <span className="dtext leading-normal">3d Objects?</span>
-        </h1>
       </div>
 
       <Spline
