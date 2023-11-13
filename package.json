@@ -9,16 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@react-three/drei": "^9.88.13",
     "@splinetool/loader": "^0.9.496",
     "@splinetool/r3f-spline": "^1.0.2",
     "@splinetool/react-spline": "^2.2.6",
     "@splinetool/runtime": "^0.9.496",
     "next": "14.0.2",
     "react": "^18",
-    "react-dom": "^18",
-    "react-three": "^0.8.0",
-    "three": "^0.158.0"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "@types/node": "^20",
