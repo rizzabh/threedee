@@ -1,7 +1,15 @@
+"use client";
+import Spline from '@splinetool/react-spline';
 
-export default function Home() {
+export default function App() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between">
-    </main>
-  )
+    <>
+    <Spline className='mb-5' scene="https://prod.spline.design/Hx-Zy8XO8VBm7pPz/scene.splinecode" />
+
+
+    </>
+
+
+  );
 }
+

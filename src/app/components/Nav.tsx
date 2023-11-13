@@ -32,10 +32,6 @@ export default function Nav() {
         </p>
       </div>
 
-      <Spline
-        scene="https://prod.spline.design/Hx-Zy8XO8VBm7pPz/scene.splinecode"
-        className="z-40"
-      />
     </div>
   );
 }
