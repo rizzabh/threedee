@@ -30,12 +30,12 @@ body {
 .constant-gradient{
   z-index: -1;
   position: absolute;
-top: 50%;
-left: 40%;
-  width: 473.323px;
-height: 483.5px;
-background: linear-gradient(180deg, #1600a68e 18.72%, rgba(0, 128, 4, 0.747) 99.99%);
-filter: blur(186.64999389648438px);
+  width: 847px;
+height: 695px;
+top: 40%;
+left: 25%;
+background: linear-gradient(232deg, #FF0101 0.03%, rgba(0, 235, 38, 0.55) 9.03%, #000AF6 100%);
+filter: blur(116.44999694824219px);
 }
 .dtext{
  text-transform: uppercase;
