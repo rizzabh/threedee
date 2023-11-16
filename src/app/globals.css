@@ -59,10 +59,7 @@ background-clip: text;
 }
 @media screen and (max-width: 768px) {
   .constant-gradient {
-    top: 50%;
-    left: 20%;
-      width: 400px;
-    height: 400px;
+    display: none;
       
   }
 }
