@@ -57,10 +57,21 @@ background-clip: text;
 .love:hover{
   filter: blur(0px);
 }
+.net{
+  position: absolute;
+  z-index: -2;
+  margin: auto;
+  opacity: 0.4;
+  margin-top: 150px;
+  transform: scale(1.3);
+}
 @media screen and (max-width: 768px) {
   .constant-gradient {
     display: none;
       
+  }
+  .net{
+    opacity: 0.2;
   }
 }
   

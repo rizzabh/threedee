@@ -18,9 +18,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-
+<div className='flex justify-center content-center'>
         <Nav />
+      <img src="/Group 5.png" className="net" />  
       <div className='constant-gradient'></div>
+      </div>
       {children}
       </body>
     </html>
